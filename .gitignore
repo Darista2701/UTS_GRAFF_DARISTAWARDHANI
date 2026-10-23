@@ -1,0 +1,9 @@
+myenv/
+.ipynb_checkpoints/
+ecommerce-dataset.zip
+__pycache__/
+*.pyc
+data/events.csv
+data/item_properties_part1.csv
+data/item_properties_part2.csv
+data/category_tree.csv
